@@ -14,4 +14,5 @@ public class Main {
         toko2.tampilkanInfo();
     }
     
+    Toko toko3 = new Toko("Bunda","kayutangi","15");
 }

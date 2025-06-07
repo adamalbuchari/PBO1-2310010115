@@ -2,7 +2,7 @@ package pertemuan4;
 
 public class Otomotif {
     public static void main(String[] args){
-    Kendaraan mobil1 = new Mobil1("Toyota Supara", 190);
+    Kendaraan mobil1 = new Mobil1("Toyota Supra", 190);
     Kendaraan mobil2 = new Mobil2("Nissan Silvia S14", 180);
     
     mobil1.jalan();
